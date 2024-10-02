@@ -11,6 +11,7 @@ This project demonstrates a distributed architecture using Kubernetes. It consis
 
 ![Architecture Overview](./images/Screenshot-from-2024-09-30-22-12-04.png)
 
+
 The architecture consists of the following pods:
 - **Voting App**: Exposed on port 80 for users to cast votes.
 - **Result App**: Exposed on port 80 for users to view the results.
